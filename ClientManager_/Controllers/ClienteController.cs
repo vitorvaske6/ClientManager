@@ -9,7 +9,7 @@ using ClientManager_.Services;
 
 namespace ClientManager_.Controllers
 {
-    [Route("api/Cliente")]
+    [Route("api/[controller]")]
     [ApiController]
     public class ClienteController : ControllerBase
     {

@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\source\\repos\\ClientManager_\\ClientManager_\\ClientManager_.csproj": {}
+    "C:\\Users\\vitor\\Documents\\Pastas\\GitRepository\\ClientManager\\ClientManager_\\ClientManager_.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\source\\repos\\ClientManager_\\ClientManager_\\ClientManager_.csproj": {
+    "C:\\Users\\vitor\\Documents\\Pastas\\GitRepository\\ClientManager\\ClientManager_\\ClientManager_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\ClientManager_\\ClientManager_\\ClientManager_.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\Documents\\Pastas\\GitRepository\\ClientManager\\ClientManager_\\ClientManager_.csproj",
         "projectName": "ClientManager_",
-        "projectPath": "C:\\Users\\vitor\\source\\repos\\ClientManager_\\ClientManager_\\ClientManager_.csproj",
+        "projectPath": "C:\\Users\\vitor\\Documents\\Pastas\\GitRepository\\ClientManager\\ClientManager_\\ClientManager_.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\source\\repos\\ClientManager_\\ClientManager_\\obj\\",
+        "outputPath": "C:\\Users\\vitor\\Documents\\Pastas\\GitRepository\\ClientManager\\ClientManager_\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -93,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

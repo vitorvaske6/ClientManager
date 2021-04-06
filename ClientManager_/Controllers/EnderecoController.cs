@@ -9,7 +9,7 @@ using ClientManager_.Models;
 
 namespace ClientManager_.Controllers
 {
-    [Route("api/Endereco")]
+    [Route("api/[controller]")]
     [ApiController]
     public class EnderecoController : ControllerBase
     {

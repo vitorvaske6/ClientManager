@@ -34,6 +34,7 @@ namespace ClientManager_
             services.AddSingleton<IClientManagerDataBaseSettings>(sp => sp.GetRequiredService<IOptions<ClientManagerDataBaseSettings>>().Value);
 
             services.AddSingleton<ClienteService>();
+            services.AddSwaggerGen();
 
             services.AddControllers();
             

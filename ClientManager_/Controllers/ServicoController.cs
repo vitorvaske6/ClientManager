@@ -8,7 +8,7 @@ using ClientManager_.Models;
 
 namespace ClientManager_.Controllers
 {
-    [Route("api/Servico")]
+    [Route("api/[controller]")]
     [ApiController]
     public class ServicoController : ControllerBase
     {
